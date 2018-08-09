@@ -1,0 +1,9 @@
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Entities\bin\Release\netcoreapp2.0\SWSC.Entities.deps.json
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Entities\bin\Release\netcoreapp2.0\SWSC.Entities.dll
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Entities\bin\Release\netcoreapp2.0\SWSC.Entities.pdb
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Entities\obj\Release\netcoreapp2.0\SWSC.Entities.csprojAssemblyReference.cache
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Entities\obj\Release\netcoreapp2.0\SWSC.Entities.csproj.CoreCompileInputs.cache
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Entities\obj\Release\netcoreapp2.0\SWSC.Entities.AssemblyInfoInputs.cache
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Entities\obj\Release\netcoreapp2.0\SWSC.Entities.AssemblyInfo.cs
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Entities\obj\Release\netcoreapp2.0\SWSC.Entities.dll
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Entities\obj\Release\netcoreapp2.0\SWSC.Entities.pdb

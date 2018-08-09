@@ -1,0 +1,14 @@
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Presentation.MVC
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=SWSC.Presentation.MVC
+--content-root=C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Presentation.MVC
+--file=C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Presentation.MVC\Views\Home\About.cshtml
+--file=C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Presentation.MVC\Views\Home\Contact.cshtml
+--file=C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Presentation.MVC\Views\Home\Index.cshtml
+--file=C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Presentation.MVC\Views\Shared\Error.cshtml
+--file=C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Presentation.MVC\Views\Shared\_Layout.cshtml
+--file=C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Presentation.MVC\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Presentation.MVC\Views\Starship\GetDistance.cshtml
+--file=C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Presentation.MVC\Views\Starship\Index.cshtml
+--file=C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Presentation.MVC\Views\_ViewImports.cshtml
+--file=C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Presentation.MVC\Views\_ViewStart.cshtml

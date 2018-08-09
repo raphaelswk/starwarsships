@@ -1,0 +1,16 @@
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Business\bin\Debug\netcoreapp2.0\SWSC.Business.deps.json
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Business\bin\Debug\netcoreapp2.0\SWSC.Business.dll
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Business\bin\Debug\netcoreapp2.0\SWSC.Business.pdb
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Business\bin\Debug\netcoreapp2.0\SWSC.Entities.dll
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Business\bin\Debug\netcoreapp2.0\SWSC.Persistence.dll
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Business\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Business\bin\Debug\netcoreapp2.0\SWSC.Entities.pdb
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Business\bin\Debug\netcoreapp2.0\SWSC.Persistence.pdb
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Business\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Business\obj\Debug\netcoreapp2.0\SWSC.Business.csprojAssemblyReference.cache
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Business\obj\Debug\netcoreapp2.0\SWSC.Business.csproj.CoreCompileInputs.cache
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Business\obj\Debug\netcoreapp2.0\SWSC.Business.AssemblyInfoInputs.cache
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Business\obj\Debug\netcoreapp2.0\SWSC.Business.AssemblyInfo.cs
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Business\obj\Debug\netcoreapp2.0\SWSC.Business.csproj.CopyComplete
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Business\obj\Debug\netcoreapp2.0\SWSC.Business.dll
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Business\obj\Debug\netcoreapp2.0\SWSC.Business.pdb

@@ -1,0 +1,58 @@
+﻿@model IEnumerable<SWSC.Presentation.MVC.ViewModels.StarshipVM>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>
+    Star Wars Ships 
+    @if (ViewBag.Distance != null)
+    {
+        @Html.Raw(" - Distance ")
+        @ViewBag.Distance
+    }
+</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.MGLT)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Consumables)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.AmountStopsRequired)
+                </th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MGLT)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Consumables)
+            </td>
+            <td>
+                @if (item.AmountStopsRequired == 0)
+                {
+                    @Html.Raw("Unknown")
+                }
+                else
+                {
+                    @Html.DisplayFor(modelItem => item.AmountStopsRequired)
+                }
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

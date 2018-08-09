@@ -1,0 +1,14 @@
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Persistence\bin\Release\netcoreapp2.0\SWSC.Persistence.deps.json
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Persistence\bin\Release\netcoreapp2.0\SWSC.Persistence.dll
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Persistence\bin\Release\netcoreapp2.0\SWSC.Persistence.pdb
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Persistence\bin\Release\netcoreapp2.0\Newtonsoft.Json.dll
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Persistence\bin\Release\netcoreapp2.0\SWSC.Entities.dll
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Persistence\bin\Release\netcoreapp2.0\SWSC.Entities.pdb
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Persistence\bin\Release\netcoreapp2.0\Newtonsoft.Json.xml
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Persistence\obj\Release\netcoreapp2.0\SWSC.Persistence.csprojAssemblyReference.cache
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Persistence\obj\Release\netcoreapp2.0\SWSC.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Persistence\obj\Release\netcoreapp2.0\SWSC.Persistence.AssemblyInfoInputs.cache
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Persistence\obj\Release\netcoreapp2.0\SWSC.Persistence.AssemblyInfo.cs
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Persistence\obj\Release\netcoreapp2.0\SWSC.Persistence.csproj.CopyComplete
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Persistence\obj\Release\netcoreapp2.0\SWSC.Persistence.dll
+C:\Users\rapha\source\repos\StarWarsShipsCore\SWSC.Persistence\obj\Release\netcoreapp2.0\SWSC.Persistence.pdb
